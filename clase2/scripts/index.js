@@ -13,3 +13,10 @@
     console.log (typeof age);
 
 }
+
+let edad=prompt ("Ingresá una edad por favor");
+let resultado=edad;
+
+alert (`El equivalente de ${edad} en años perros es: {resultado}`)
+console.warn (lastname)
+
