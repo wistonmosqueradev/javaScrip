@@ -16,3 +16,6 @@ console.loga(apellido)
 
 let nombres=["wiston","alberto","stiven","julian","marta"]
 console.log(nombres)
+
+// Objectos 
+
