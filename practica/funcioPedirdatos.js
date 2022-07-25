@@ -14,7 +14,11 @@
 // estudiante(
 //     nombreCompleto,Carrera
 // )
+ 
 
+
+
+Math.trunc
 
 
 const tomar=(agua,leche, cafe,)=>{
