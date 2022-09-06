@@ -1,0 +1,1 @@
+(()=>{const d=document.createElement("h1");d.innerHTML="hola mundo",d.classList.add("titulo"),document.body.appendChild(d)})();
